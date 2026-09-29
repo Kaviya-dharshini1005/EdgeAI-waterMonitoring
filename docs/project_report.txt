@@ -1,0 +1,15 @@
+========== TRON AI TRAINING REPORT ==========
+
+Training Samples : 880
+Validation Samples : 221
+
+Average Normal Error : 0.012761256097204732
+Average Unsafe Error : 0.013702351114762583
+
+Recommended Threshold : 0.05482834227940149
+Unsafe Detection Rate : 2.26%
+
+Input Features:
+- ph
+- TDS
+- Turbidity

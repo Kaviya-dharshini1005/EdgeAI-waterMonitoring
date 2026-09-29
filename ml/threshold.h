@@ -1,0 +1,6 @@
+#ifndef THRESHOLD_H
+#define THRESHOLD_H
+
+#define ANOMALY_THRESHOLD 0.04403709f
+
+#endif

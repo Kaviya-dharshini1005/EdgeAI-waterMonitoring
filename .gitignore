@@ -1,0 +1,22 @@
+# STM32CubeIDE build output
+firmware/STM32H533/Debug/
+firmware/STM32H533/Release/
+
+# Eclipse/STM32 generated metadata
+firmware/STM32H533/.settings/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
