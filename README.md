@@ -61,6 +61,11 @@ When a new measurement does not resemble the patterns learned during training, t
 
 ## Problem Statement
 
+Clean water is not equally accessible to everyone. In many rural and remote communities, people depend on wells, borewells, and other local water sources where water quality can change without any visible warning. Contamination may come from natural sources, agricultural runoff, or inadequate sanitation, yet the water can still appear completely normal.
+
+This creates a serious gap: people may continue drinking unsafe water simply because they have no practical way to know when its quality has changed. Existing monitoring solutions can be expensive, require continuous connectivity, or depend on sending data to external systems, making them difficult to deploy in resource-constrained and rural environments.
+
+We wanted to address this gap with a system that can monitor water quality locally, detect abnormal conditions using Edge AI, and provide a timely warning without depending entirely on cloud connectivity.
 Conventional water-quality monitoring systems often depend on manually selected thresholds.
 
 For example, a system may define separate limits for pH, TDS, and turbidity and generate an alert whenever one of the limits is crossed.
