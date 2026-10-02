@@ -608,7 +608,7 @@ Performance evaluation includes inference time, memory usage, scheduling behavio
 
 ---
 ## Demo Video
-https://www.youtube.com/watch?v=ABC123xyz
+(https://www.youtube.com/watch?v=GD38py2twZ4)
 
 ## Repository Structure
 
